@@ -1,0 +1,65 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     2157 MB
+    Driver:   21.20.16.4627
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\nikog\OneDrive\Documents\SimpleBreakout\Builds\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.229 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.751185 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.811939 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 865.
+Total: 0.305158 ms (FindLiveObjects: 0.057970 ms CreateObjectMapping: 0.030608 ms MarkObjects: 0.210086 ms  DeleteObjects: 0.005565 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.434896 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 865.
+Total: 0.388173 ms (FindLiveObjects: 0.066782 ms CreateObjectMapping: 0.018550 ms MarkObjects: 0.297738 ms  DeleteObjects: 0.004637 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543999 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.271767 ms (FindLiveObjects: 0.032927 ms CreateObjectMapping: 0.014376 ms MarkObjects: 0.177622 ms  DeleteObjects: 0.046376 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543535 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 493.
+Total: 0.226318 ms (FindLiveObjects: 0.036173 ms CreateObjectMapping: 0.015304 ms MarkObjects: 0.169738 ms  DeleteObjects: 0.004173 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352927 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.294028 ms (FindLiveObjects: 0.019478 ms CreateObjectMapping: 0.021333 ms MarkObjects: 0.230028 ms  DeleteObjects: 0.022724 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.443825 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 493.
+Total: 0.286608 ms (FindLiveObjects: 0.044057 ms CreateObjectMapping: 0.011130 ms MarkObjects: 0.226318 ms  DeleteObjects: 0.004173 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33cc -> priority: 1 
+  Thread -> id: 32e4 -> priority: 1 
